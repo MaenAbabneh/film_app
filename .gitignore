@@ -25,4 +25,4 @@ dist-ssr
 
 .vercel
 # Ignore environment variable files
-.env
+.env.local
